@@ -1,0 +1,12 @@
+#ifndef filter_h
+#define filter_h
+
+#include "Arduino.h"
+
+class filter
+{
+public:
+	void setup();
+	void getAngles();
+};
+endif
